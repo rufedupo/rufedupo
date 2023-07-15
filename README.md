@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/e9/14/d4/e914d4724c166087d5d47d457d670b33.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Constellatio - Ruan Felipe">
 
 <p align="left"> 
-Olá meu nome é <strong>Ruan Felipe</strong>, sou desenvolvedor  <strong>FullStack</strong>, mas apaixonado por <strong>FrontEnd</strong>.
+Olá meu nome é <strong>Ruan Felipe</strong>, sou desenvolvedor <strong>BackEnd</strong>, mas apaixonado por <strong>FrontEnd</strong>.
 </p>
 
 <p align="left">
